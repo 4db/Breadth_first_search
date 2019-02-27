@@ -1,1 +1,5 @@
-# Breadth_first_search
+# Breadth First Search
+
+Canvas implementation BFS algorithm.
+
+[Live demo.](https://aldb.github.io/Breadth_first_search/index.html)
