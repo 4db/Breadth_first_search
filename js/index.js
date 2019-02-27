@@ -294,4 +294,3 @@ class Generate {
 }
 
 var g = new Generate();
-//
