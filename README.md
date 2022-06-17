@@ -2,4 +2,4 @@
 
 Canvas implementation BFS algorithm.
 
-[Live demo.](https://aldb.github.io/Breadth_first_search/index.html)
+[Live demo.](https://4db.github.io/Breadth_first_search/index.html)
